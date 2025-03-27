@@ -15,9 +15,11 @@ A practical tutorial on handling class imbalance in classification tasks using l
  
 ## Contents
 - `ML_Tutorial.ipynb` – Jupyter Notebook with code, visuals, and explanation
-- `creditcard.csv` – Real-world dataset (from ULB via Kaggle)
 - `LICENSE` – MIT License
-- `PDF/` – Full Tutorial of above content
 
 ## Dataset Source
+
 This project uses the [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud), published by the ULB Machine Learning Group. It contains anonymised transactions made by European cardholders over two days in 2013.
+
+> ⚠️ **Note:** The `creditcard.csv` file is too large to be included directly in this GitHub repository (exceeds 25 MB limit).  
+> To run the notebook, please download the dataset from the [Kaggle link above](https://www.kaggle.com/mlg-ulb/creditcardfraud) and place the file in the **same directory** as the notebook.
